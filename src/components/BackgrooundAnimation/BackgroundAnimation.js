@@ -168,7 +168,7 @@ const BackgroundAnimation = () => (
         rx="1.07306"
         ry="1.07433"
         transform="translate(-165.524 -93.9596)"
-        fill="#F46737"
+        fill="#ff6e7f"
       >
         <animateMotion
           dur="10s"
