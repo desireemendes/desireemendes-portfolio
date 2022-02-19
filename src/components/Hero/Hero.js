@@ -8,13 +8,13 @@ const Hero = () => (
  <Section row nopadding>
    <LeftSection>
      <SectionTitle main center>
-  Hello there <br />
+  Hello there, <br />
   I'm Desiree Mendes
      </SectionTitle>
      <SectionText>
-       I'm a web developer
+       I'm a full-stack web developer
      </SectionText>
-     <Button onClick={() => window.location = "https://linkedin.com/in/desireemendes"}>Learn More</Button>
+     <Button onClick={() => window.location = "https://resume.creddle.io/resume/5hkgkm2gbtc"}>My Resume</Button>
    </LeftSection>
  </Section>
 );
