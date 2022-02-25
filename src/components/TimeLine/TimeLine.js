@@ -4,6 +4,7 @@ import { CarouselButton, CarouselButtonDot, CarouselButtons, CarouselContainer, 
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { TimeLineData } from '../../constants/constants';
 
+
 const TOTAL_CAROUSEL_COUNT = TimeLineData.length;
 
 const Timeline = () => {
@@ -45,8 +46,13 @@ const Timeline = () => {
   return (
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
+      {/* <img src="/images/desireemendes.png" width="400" height="400"></img> */}
       <SectionText>
      I'm a full-stack web developer with a passion to get creative.
+     <br></br>
+     I recently graduated from Lighthouse Labs and also have a background in Business Administration and Psychology.
+     <br></br>
+     I have a passion for learning and am always aiming to learn something new! Feel free to reach out to me.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

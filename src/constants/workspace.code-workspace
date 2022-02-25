@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"name": "personal-portfolio",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.activeBackground": "#e09185",
+			"activityBar.activeBorder": "#ccf2d1",
+			"activityBar.background": "#e09185",
+			"activityBar.foreground": "#15202b",
+			"activityBar.inactiveForeground": "#15202b99",
+			"activityBarBadge.background": "#ccf2d1",
+			"activityBarBadge.foreground": "#15202b",
+			"sash.hoverBorder": "#e09185",
+			"statusBar.background": "#d66c5c",
+			"statusBar.foreground": "#15202b",
+			"statusBarItem.hoverBackground": "#cc4733",
+			"statusBarItem.remoteBackground": "#d66c5c",
+			"statusBarItem.remoteForeground": "#15202b",
+			"titleBar.activeBackground": "#d66c5c",
+			"titleBar.activeForeground": "#15202b",
+			"titleBar.inactiveBackground": "#d66c5c99",
+			"titleBar.inactiveForeground": "#15202b99"
+		},
+		"peacock.color": "#d66c5c"
+	}
+}

@@ -19,8 +19,13 @@ const Technologies = () =>  (
          <ListParagraph>
            Experience with <br />
            HTML5,
-           CSS3
+           <br />
+           CSS3,
+           <br />
+           Javascript,
+           <br />
            React.js,
+           <br />
            Rails
          </ListParagraph>
        </ListContainer>
@@ -32,7 +37,14 @@ const Technologies = () =>  (
          <ListParagraph>
            Experience with <br />
            Node,
-           PostgreSQL
+           <br />
+           Express,
+           <br />
+           PostgreSQL,
+           <br />
+           Ruby,
+           <br />
+           Python
          </ListParagraph>
        </ListContainer>
      </ListItem>

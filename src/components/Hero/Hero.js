@@ -12,7 +12,7 @@ const Hero = () => (
   I'm Desiree Mendes
      </SectionTitle>
      <SectionText>
-       I'm a full-stack web developer
+       <strong>a full-stack web developer</strong>
      </SectionText>
      <Button onClick={() => window.location = "https://resume.creddle.io/resume/5hkgkm2gbtc"}>My Resume</Button>
    </LeftSection>

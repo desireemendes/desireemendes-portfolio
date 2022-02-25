@@ -8,6 +8,7 @@ const Projects = () => (
  <Section nopadding id="projects">
 <SectionDivider />
 <SectionTitle>Projects</SectionTitle>
+Live source links coming soon!
 <GridContainer>
 {projects.map((p, i) => {
         return (
